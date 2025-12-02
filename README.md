@@ -59,7 +59,7 @@
 ## 📬 Connect with Me  
 
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/praneeth-radeesha-214726314/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50px"/>
   </a>
   <a href="https://www.facebook.com/" target="_blank">
@@ -67,6 +67,12 @@
   </a>
   <a href="mailto:praneethradeesha@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="50px"/>
+  </a>
+  <a href="https://www.hackerrank.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=hackerrank" width="50px"/>
+  </a>
+<a href="https://dev.to/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=devto" width="50px"/>
   </a>
 </p>
 
