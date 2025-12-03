@@ -68,11 +68,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="50px" />
   </a>
 
-  <a href="mailto:praneethradeesha@gmail.com">
+  <a href="radeeshapraneeth531@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="50px" />
   </a>
 
-  <a href="https://www.hackerrank.com/" target="_blank">
+  <a href="https://www.hackerrank.com/profile/radeeshapraneet1" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="50px" />
 </a>
 
