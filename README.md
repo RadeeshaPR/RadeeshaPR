@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Praneeth Radeesha</h1>
+<h1 align="center">Praneeth Radeesha</h1>
 <h3 align="center">Computer Science & Technology | AI & ML Enthusiast | Full-Stack Developer</h3>
 
 ---
