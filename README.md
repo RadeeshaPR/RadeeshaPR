@@ -6,8 +6,7 @@
 ### 🚀 About Me  
 - 🎓 3rd Year Computer Science & Technology undergraduate — **Uva Wellassa University**
 - 🤖 Learning **AI, Machine Learning & Cloud Computing**
-- 💻 Building skills in **Full-Stack Development** (Python, JS, React, PHP)
-- 🎯 Goal: **Fully funded Master's** + Tech career in **Germany**
+- 💻 Building skills in **Full-Stack Development** (Python, JS, React, PHP,Java)
 - 🌱 Passionate about real-world projects & problem solving  
 
 ---
